@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\bin\Debug\WFConsultarCEP.NET.exe.config
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\bin\Debug\WFConsultarCEP.NET.exe
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\bin\Debug\WFConsultarCEP.NET.pdb
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.Form1.resources
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.Form2.resources
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.exe
+C:\Users\Aluno\Desktop\Aulas\Visual Studio 2019\WFConsultarCEP.NET\WFConsultarCEP.NET\obj\Debug\WFConsultarCEP.NET.pdb
